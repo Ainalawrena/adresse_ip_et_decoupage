@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
+#include <stdlib.h>
 #include <math.h>
 #include "prototype.h"
 
-int main() 
+int main()
 {   
-    execution_total();
+    enter();
     return 0;
 }
